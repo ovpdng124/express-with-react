@@ -1,0 +1,19 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.wrapper {
+  width: 80%;
+  margin: 0 auto ;
+  background-color: gray;
+  padding: 10px;
+}
+
+header, footer {
+  background-color: #dddddd;
+  padding: 20px;
+}
